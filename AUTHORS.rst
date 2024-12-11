@@ -5,9 +5,11 @@ Credits
 Development Lead
 ----------------
 
-* Mikołaj Olszewski <mikolaj.olszewski@algolytics.pl>
+* Mateusz Białek <mateusz.bialek@algolytics.pl>
 
 Contributors
 ------------
 
+* Łukasz Szpak <lukasz.szpak@algolytics.pl>
+* Mikołaj Olszewski <mikolaj.olszewski@algolytics.pl>
 * Tomasz Kaczyński <tomasz.kaczynski@algolytics.pl>
