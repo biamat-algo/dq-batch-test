@@ -20,6 +20,6 @@ jobs:
         prerelease: false
         release_name: ${{ github.ref }}
         tag_name: ${{ github.ref }}
-        body_path: HISTORY.md
+        body_path: HISTORY.rst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
