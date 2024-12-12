@@ -5,9 +5,9 @@ History
 0.6.0 (2024-12-11)
 ------------------
 
-* RENAME PACKAGE NAME TO `dq-batch-client`
+* RENAME PACKAGE NAME TO dq-batch-client
 * Update dependencies: minimal version of Python is 3.6
-* Add financial scoring option to JobConfig 
+* Add financial scoring option to JobConfig
 * Update documentation
 
 0.5.0 (2018-07-13)
