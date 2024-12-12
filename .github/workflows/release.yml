@@ -9,6 +9,7 @@ jobs:
   release-create:
     runs-on: ubuntu-22.04
     steps:
+    - uses: actions/checkout@v4
     - name: Create Release
       if: startsWith(github.ref, 'refs/tags/')
       uses: actions/create-release@v1
