@@ -19,5 +19,5 @@ jobs:
         release_name: ${{ github.ref }}
         tag_name: ${{ github.ref }}
         body_path: history.rst
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
