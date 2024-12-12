@@ -11,10 +11,6 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v4
-    - name: Convert rst to markdown
-      uses: docker://pandoc/core:3.5
-      with:
-        args: -f rst -t markdown -o HISTORY.md HISTORY.rst
     - name: Create Release
       if: startsWith(github.ref, 'refs/tags/')
       uses: actions/create-release@v1
