@@ -32,7 +32,7 @@ Features
 * Automatic encoding file conversion
 
 Credits
----------
+-------
 
 This package was created by Algolytics_ dev team.
 
